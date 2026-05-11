@@ -16,6 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 6. Predict placement results and calculate model accuracy.
 
 ## Program:
+
 ```
 
 Program to implement the the Logistic Regression Using Gradient Descent.
